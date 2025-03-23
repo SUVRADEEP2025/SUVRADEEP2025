@@ -1,6 +1,6 @@
 # Hey there! 👋 Welcome to the world of SUCRADEEP2025 🛠️✨
 
-I'm Suvra (aka the code whisperer 🎩), a web development enthusiast who loves crafting digital worlds and weaving tales of creativity. When I'm not busy chasing bugs or cracking coding mysteries, you can find me learning about animations or exploring the marvels of the universe (singularities, anyone? 🌌).
+I'm Suvradeep (aka the code whisperer 🎩), a web development enthusiast who loves crafting digital worlds and weaving tales of creativity. When I'm not busy chasing bugs or cracking coding mysteries, you can find me learning about animations or exploring the marvels of the universe (singularities, anyone? 🌌).
 
 ## About Me 🚀
 - 💻 Always coding, forever curious.
